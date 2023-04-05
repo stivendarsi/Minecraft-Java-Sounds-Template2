@@ -1,6 +1,6 @@
 # Minecraft-Java-Sounds-Template2
 
-*this list is for the items that were uploaded separately
+*this list is for the items that were uploaded separately*
 HOW TO SORT :
 
 sounds :
@@ -33,6 +33,11 @@ sounds :
   portal
   random
   records
+  
+  
+  
+  
+  
   step
   tile
   ui
